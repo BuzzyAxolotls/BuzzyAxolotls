@@ -8,7 +8,7 @@
 - 📫 How to reach me: Discord
 - ⚡ Fun fact: e 
 
-!(https://fortnite.gg/img/items/8831/locker.jpg?1)
+(https://github.com/BuzzyBumbleBees/BuzzyBumbleBees/blob/5f52654d108da7075f8c11f71e83fb152e58160f/locker.jpg)
 
 <!--
 **Gamemodeon123/gamemodeon123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
