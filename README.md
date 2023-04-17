@@ -2,11 +2,9 @@
 ![client, opt server](https://img.shields.io/badge/environment-client%2c%20opt%20server-536a9e?style=flat-square)
 
 -fabric
-- 🔭 I’m currently working on Roblox
-- 🌱 I’m currently learning Lua
-- 👯 I’m looking to collaborate on e
-- 🤔 I’m looking for help with e
-- 💬 Ask me about Minecraft Bees
+- 🔭 I’m currently working on Minecraft
+- 🌱 I’m currently learning Quilt
+- 💬 Ask me about Minecraft Bees and Axolotls
 - 📫 How to reach me: Discord
 - ⚡ Fun fact: e 
 
