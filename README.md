@@ -1,11 +1,6 @@
 ###
 ![client, opt server](https://img.shields.io/badge/environment-client%2c%20opt%20server-536a9e?style=flat-square)
 
-
-
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/528074997894479873)](https://discord.com/users/528074997894479873)
-
 -fabric
 - 🔭 I’m currently working on Minecraft
 - 🌱 I’m currently learning Quilt
