@@ -1,5 +1,6 @@
 ###
 ![client, opt server](https://img.shields.io/badge/environment-client%2c%20opt%20server-536a9e?style=flat-square)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1082796035270770698)](https://discord.com/users/1082796035270770698)
 
 -fabric
 - 🔭 I’m currently working on Minecraft
