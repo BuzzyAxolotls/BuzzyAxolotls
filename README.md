@@ -1,6 +1,10 @@
 ###
 ![client, opt server](https://img.shields.io/badge/environment-client%2c%20opt%20server-536a9e?style=flat-square)
-[![Discord Presence](https://lanyard.cnrad.dev/api/1082796035270770698)](https://discord.com/users/1082796035270770698)
+
+
+
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1082796035270770698)](https://discord.com/users/528074997894479873)
 
 -fabric
 - 🔭 I’m currently working on Minecraft
@@ -10,17 +14,4 @@
 - ⚡ Fun fact: e 
 
 ![alt text](https://github.com/BuzzyBumbleBees/BuzzyBumbleBees/blob/TestBranch/locker.jpg?raw=true)
-
-<!--
-**Gamemodeon123/gamemodeon123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: e ...
--->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuzzyBumbleBees)](https://github.com/anuraghazra/github-readme-stats)
