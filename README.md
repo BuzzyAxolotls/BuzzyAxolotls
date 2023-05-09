@@ -4,7 +4,7 @@
 
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1082796035270770698)](https://discord.com/users/528074997894479873)
+[![Discord Presence](https://lanyard.cnrad.dev/api/528074997894479873)](https://discord.com/users/528074997894479873)
 
 -fabric
 - 🔭 I’m currently working on Minecraft
