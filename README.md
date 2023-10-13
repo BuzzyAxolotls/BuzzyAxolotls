@@ -9,4 +9,4 @@
 - ⚡ Fun fact: e 
 
 ![alt text](https://github.com/BuzzyBumbleBees/BuzzyBumbleBees/blob/TestBranch/locker.jpg?raw=true)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuzzyBumbleBees)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuzzyAxolotls)](https://github.com/anuraghazra/github-readme-stats)
