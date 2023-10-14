@@ -3,9 +3,6 @@
 <!-- SVG version -->
 <img alt="" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/switch_vector.svg">
 
-<!-- PNG version -->
-<img alt="switch" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/switch_64h.png">
-
 -fabric
 - 🔭 I’m currently working on Minecraft
 - 🌱 I’m currently learning Quilt
