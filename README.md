@@ -4,8 +4,7 @@
 <img alt="" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/switch_vector.svg">
 
 -fabric
-- 🔭 I’m currently working on Minecraft
-- 🌱 I’m currently learning Quilt
+- 🔭 I’m currently working on living
 - 💬 Ask me about Minecraft Bees and Axolotls
 - 📫 How to reach me: Discord
 - ⚡ Fun fact: e 
